@@ -1,20 +1,16 @@
-# 📢 [PROJE RAPORUNU GÖRÜNTÜLEMEK İÇİN TIKLA](ikea%20analiz%20raporu.pdf)
-
-
-###
-
-
-
-
-
-
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Ikea_logo.svg" width="100" alt="IKEA Logo">
   <h1>IKEA TÜRKİYE MÜŞTERİ ŞİKAYETLERİ ANALİZİ</h1>
   <p><strong>14.000+ Müşteri Geri Bildirimi Üzerine Veri Madenciliği ve Kök Neden Analizi</strong></p>
+  
+  <br>
+  
+  <a href="ikea%20analiz%20raporu.pdf">
+    <img src="https://img.shields.io/badge/PDF-Proje_Raporunu_Görüntüle-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Raporu Görüntüle">
+  </a>
+
 </div>
 
----
 
 ### 📋 PROJE HAKKINDA
 
