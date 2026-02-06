@@ -1,3 +1,13 @@
+# 📢 [PROJE RAPORUNU GÖRÜNTÜLEMEK İÇİN TIKLA](ikea%20analiz%20raporu.pdf)
+
+
+###
+
+
+
+
+
+
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Ikea_logo.svg" width="100" alt="IKEA Logo">
   <h1>IKEA TÜRKİYE MÜŞTERİ ŞİKAYETLERİ ANALİZİ</h1>
